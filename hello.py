@@ -1,2 +1,2 @@
-print("2023110328김유라")
+print("^_^")
 print("Hello World")
